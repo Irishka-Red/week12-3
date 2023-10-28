@@ -1,0 +1,36 @@
+body{
+    background-color: bisque;
+}
+main{
+    width: 90%;
+    max-width: 1400px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: 0 auto;
+}
+h1{
+    display: block;
+    text-align: center;
+}
+.button{
+    background-color: cadetblue;
+    color: white;
+}
+.total{
+    padding-top: 25px;
+    display: block;
+    text-align: center;
+}
+.weight{
+    display: block;
+    text-align: center;   
+}
+.height{
+    display: block;
+    text-align: center;
+}
+.meaning{
+    display: block;
+    text-align: center; 
+    padding-top: 25px;
+}
